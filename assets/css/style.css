@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,main{
+    font-family: 'Poppins', sans-serif;
+    background-color: #151515;
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #202020;
+    border-bottom: 1px solid #393939;
+}
+main{
+    margin: 2% 10% 5%;
+}
+#info{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+    padding: 20px;
+}
+#title-section{
+    display: inline-block;
+}
+#sort-buttons{
+    display: inline-block;
+}
+#grid-movies{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+}
+.card-movie{
+    margin: 4px 10px;
+}
+img.poster-movie{
+    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+}
+.card-body{
+    margin-top: 4px;
+}
+figure.poster{
+    transition: transform .3s ease-out;
+}
+figure.poster:hover{
+    transform: translate(0, -7px);
+}
+.movie-year{
+    font-weight: 300;
+}
+.status-released{
+    display: none;
+}
+.date-movie{
+    margin-top: 4px;
+}
+.status-coming,.status-announced{
+    display: inline-block;
+    margin-left: 8px;
+    background-color: white;
+    color: black;
+    padding: 0px 4px;
+    border-radius: 2px;
+}
+.status-coming:before{
+    content: "Próximamente";
+}
+.status-announced:before{
+    content: "Anunciada";
+}
+span.button{
+    background-color: #e62429;
+    color: white;
+    cursor: pointer;
+    padding: 10px 30px;
+    margin: 0px 3px;
+    transition: background-color 1s;
+}
+span.button:hover{
+    background-color: #eb2328;
+}
+@media only screen and (max-width: 490px) {
+    main{
+        margin: 20px;
+    }
+    #grid-movies {
+     grid-template-columns: 1fr 1fr;
+    }
+    span.button{
+        padding: 10px;
+    }
+    #info{
+        display: block;
+        text-align: center;
+        margin: 10px 0px 20px;
+        padding: 0px;
+    }
+    #title-section{
+        display: inline-block;
+        margin:10px 0px 20px;
+    }
+    #sort-buttons{
+        display: inline-block;
+        margin: 10px 0px;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 1279px) {
+    main{
+     margin: 40px 20px;
+    }
+    #grid-movies {
+     grid-template-columns: 1fr 1fr 1fr;
+    }
+    span.button{
+        padding: 10px 30px;
+    }
+    #info{
+        display: block;
+        text-align: center;
+        margin: 10px 0px;
+        padding: 20px;
+    }
+    #title-section{
+        display: inline-block;
+    }
+    #sort-buttons{
+        display: inline-block;
+    }
+}

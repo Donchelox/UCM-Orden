@@ -1,0 +1,164 @@
+{
+  "ironman": {
+    "movie": "Iron Man",
+    "poster": "assets/img/poster/ironman.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "theincrediblehulk": {
+    "movie": "The Incredible Hulk",
+    "poster": "assets/img/poster/theincrediblehulk.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "ironman2": {
+    "movie": "Iron Man 2",
+    "poster": "assets/img/poster/ironman2.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "thor": {
+    "movie": "Thor",
+    "poster": "assets/img/poster/thor.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "capitanamericathefirstavengers": {
+    "movie": "Capitán América: el primer vengador",
+    "poster": "assets/img/poster/capitanamericathefirstavengers.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "theavengers": {
+    "movie": "The Avengers",
+    "poster": "assets/img/poster/theavengers.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "ironman3": {
+    "movie": "Iron Man 3",
+    "poster": "assets/img/poster/ironman3.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "thorthedarkworld": {
+    "movie": "Thor: The Dark World",
+    "poster": "assets/img/poster/thorthedarkworld.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "captainamericathewintersoldier": {
+    "movie": "Captain America: The Winter Soldier",
+    "poster": "assets/img/poster/captainamericathewintersoldier.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "guardiansofthegalaxy": {
+    "movie": "Guardianes de la Galaxia",
+    "poster": "assets/img/poster/guardiansofthegalaxy.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "avengersageofultron": {
+    "movie": "Avengers: Age of Ultron",
+    "poster": "assets/img/poster/avengersageofultron.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "ant-man": {
+    "movie": "Ant-Man",
+    "poster": "assets/img/poster/ant-man.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "captainamericacivilwar": {
+    "movie": "Capitán América: Civil War",
+    "poster": "assets/img/poster/captainamericacivilwar.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "doctorstrange": {
+    "movie": "Doctor Strange",
+    "poster": "assets/img/poster/doctorstrange.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "guardiansofthegalaxyvol2": {
+    "movie": "Guardianes de la Galaxia Vol. 2",
+    "poster": "assets/img/poster/guardiansofthegalaxyvol2.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "spider-manhomecoming": {
+    "movie": "Spider-Man: Homecoming",
+    "poster": "assets/img/poster/spider-manhomecoming.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "thorragnarok": {
+    "movie": "Thor: Ragnarok",
+    "poster": "assets/img/poster/thorragnarok.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "blackpanther": {
+    "movie": "Black Panther",
+    "poster": "assets/img/poster/blackpanther.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "avengersinfinitywars": {
+    "movie": "Avengers: Infinity War",
+    "poster": "assets/img/poster/avengersinfinitywars.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "ant-manthewasp": {
+    "movie": "Ant-Man and the Wasp",
+    "poster": "assets/img/poster/ant-manthewasp.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "captainmarvel": {
+    "movie": "Capitana Marvel",
+    "poster": "assets/img/poster/captainmarvel.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "avengersendgame": {
+    "movie": "Avengers: Endgame",
+    "poster": "assets/img/poster/avengersendgame.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "spider-manfarfromhome": {
+    "movie": "Spider-Man: Lejos de casa",
+    "poster": "assets/img/poster/spider-manfarfromhome.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "blackwidow": {
+    "movie": "Black Widow",
+    "poster": "assets/img/poster/blackwidow.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "wandavision": {
+    "movie": "WandaVision",
+    "poster": "assets/img/poster/wandavision.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "thefalconandthewintersoldier": {
+    "movie": "The Falcon and the Winter Soldier",
+    "poster": "assets/img/poster/thefalconandthewintersoldier.jpg",
+    "status": "released",
+    "year": 2000
+  },
+  "loki": {
+    "movie": "Loki",
+    "poster": "assets/img/poster/loki.jpg",
+    "status": "released",
+    "year": 2000
+  }
+}
