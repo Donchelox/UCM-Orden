@@ -6,8 +6,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2008,
     "timeline": 2010,
+    "orden": 3,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "theincrediblehulk",
@@ -16,8 +17,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2008,
     "timeline": 2011,
+    "orden": 4,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "ironman2",
@@ -26,8 +28,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2010,
     "timeline": 2011,
+    "orden": 5,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "thor",
@@ -36,8 +39,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2011,
     "timeline": 2011,
+    "orden": 6,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "captainamericathefirstavenger",
@@ -46,8 +50,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2011,
     "timeline": 1943,
+    "orden": 1,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "theavengers",
@@ -56,8 +61,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2012,
     "timeline": 2012,
+    "orden": 7,
     "type": "movie",
-    "phase": 1
+    "phase": "1"
   },
   {
     "id": "ironman3",
@@ -66,8 +72,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2013,
     "timeline": 2012,
+    "orden": 9,
     "type": "movie",
-    "phase": 1
+    "phase": "2"
   },
   {
     "id": "thorthedarkworld",
@@ -76,8 +83,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2013,
     "timeline": 2013,
+    "orden": 8,
     "type": "movie",
-    "phase": null
+    "phase": "2"
   },
   {
     "id": "captainamericathewintersoldier",
@@ -86,8 +94,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2014,
     "timeline": 2014,
+    "orden": 10,
     "type": "movie",
-    "phase": null
+    "phase": "2"
   },
   {
     "id": "guardiansofthegalaxy",
@@ -96,8 +105,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2014,
     "timeline": 2014,
+    "orden": 11,
     "type": "movie",
-    "phase": null
+    "phase": "2"
   },
   {
     "id": "avengersageofultron",
@@ -106,8 +116,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2015,
     "timeline": 2015,
+    "orden": 13,
     "type": "movie",
-    "phase": null
+    "phase": "2"
   },
   {
     "id": "ant-man",
@@ -116,8 +127,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2015,
     "timeline": 2015,
+    "orden": 14,
     "type": "movie",
-    "phase": null
+    "phase": "2"
   },
   {
     "id": "captainamericacivilwar",
@@ -126,8 +138,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2016,
     "timeline": 2016,
+    "orden": 15,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "doctorstrange",
@@ -136,8 +149,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2016,
     "timeline": 2016,
+    "orden": 19,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "guardiansofthegalaxyvol2",
@@ -146,8 +160,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2017,
     "timeline": 2014,
+    "orden": 12,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "spider-manhomecoming",
@@ -156,8 +171,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2017,
     "timeline": 2016,
+    "orden": 18,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "thorragnarok",
@@ -166,8 +182,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2018,
     "timeline": 2017,
+    "orden": 20,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "blackpanther",
@@ -176,8 +193,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2018,
     "timeline": 2017,
+    "orden": 17,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "avengersinfinitywar",
@@ -186,8 +204,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2018,
     "timeline": 2018,
+    "orden": 22,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "ant-manthewasp",
@@ -196,8 +215,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2018,
     "timeline": 2018,
+    "orden": 21,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "captainmarvel",
@@ -206,8 +226,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2019,
     "timeline": 1995,
+    "orden": 2,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "avengersendgame",
@@ -216,8 +237,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2019,
     "timeline": 2023,
+    "orden": 23,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "spider-manfarfromhome",
@@ -226,8 +248,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2019,
     "timeline": 2023,
+    "orden": 28,
     "type": "movie",
-    "phase": null
+    "phase": "3"
   },
   {
     "id": "blackwidow",
@@ -236,8 +259,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2021,
     "timeline": 2017,
+    "orden": 16,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "shangchi",
@@ -246,8 +270,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
+    "orden": 29,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "eternals",
@@ -256,8 +281,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "spider-mannowayhome",
@@ -266,8 +292,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "doctorstrangeinthemultiverseofmadness",
@@ -276,8 +303,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "thorloveandthunder",
@@ -286,8 +314,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "blackpantherwakandaforever",
@@ -296,8 +325,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "themarvels",
@@ -306,8 +336,20 @@ const marvelMovies = [
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
+  },
+  {
+    "id": "guardiansofthegalaxyvol3",
+    "movie": "Guardianes de la Galaxia Vol. 3",
+    "poster": "assets/img/poster/guardiansofthegalaxyvol3.png",
+    "status": "coming",
+    "year": 2023,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "movie",
+    "phase": "4"
   },
   {
     "id": "blade",
@@ -316,8 +358,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "ant-manquantunmania",
@@ -326,8 +369,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2023,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "fantasticfour",
@@ -336,8 +380,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "movie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "wandavision",
@@ -346,8 +391,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2021,
     "timeline": 2023,
+    "orden": 26,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "thefalconandthewintersoldier",
@@ -356,8 +402,9 @@ const marvelMovies = [
     "status": "released",
     "year": 2021,
     "timeline": 2023,
+    "orden": 27,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "loki",
@@ -366,18 +413,20 @@ const marvelMovies = [
     "status": "released",
     "year": 2021,
     "timeline": 2012,
+    "orden": 24,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "whatif",
     "movie": "What If...?",
     "poster": "assets/img/poster/whatif.jpg",
-    "status": "coming",
+    "status": "released",
     "year": 2021,
-    "timeline": 2024,
+    "timeline": 2023,
+    "orden": 25,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "hawkeye",
@@ -386,8 +435,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "msmarvel",
@@ -396,8 +446,9 @@ const marvelMovies = [
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "shehulk",
@@ -406,8 +457,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2021,
     "timeline": 2024,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "moonknight",
@@ -416,8 +468,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "secretinvasion",
@@ -426,8 +479,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "ironheart",
@@ -436,8 +490,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "armorwars",
@@ -446,8 +501,9 @@ const marvelMovies = [
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   },
   {
     "id": "gotg-holiday",
@@ -456,18 +512,20 @@ const marvelMovies = [
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "5"
   },
   {
     "id": "iamgroot",
     "movie": "I Am Groot",
-    "poster": "assets/img/poster/I Am Groot.jpg",
+    "poster": "assets/img/poster/iamgroot.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
+    "orden": 60,
     "type": "serie",
-    "phase": null
+    "phase": "4"
   }
 ];
   
