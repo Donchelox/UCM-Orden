@@ -16,14 +16,19 @@
         <div id="info">
           <h2 id="title-section"></h2>
           <div id="sort-buttons" class="buttons">
-            <span class="button" onclick="alfabetico()">Alfabético</span>
-            <span class="button" onclick="timelineOrder()">Cronológico</span>
-            <span class="button" onclick="dateReleased()">Estreno</span>
+            <span class="button alfabetico" onclick="alfabetico()">Alfabético</span>
+            <span class="button timeline" onclick="timelineOrder()">Cronológico</span>
+            <span class="button released" onclick="dateReleased()">Estreno</span>
           </div>
       </div>
         
         <div id="grid-movies"></div>
     </main>
+    <div id="overlay">
+      <div id="modal">
+        <h1 id="modal-title">Modal</h1>
+      </div>
+  </div>
     <script src="./assets/js/apps.js"></script>
 </body>
 </html>

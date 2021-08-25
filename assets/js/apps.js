@@ -538,9 +538,10 @@ function dateReleased() {
 }
 
 function timelineOrder() {
-    marvelMovies.sort(function(a, b){return a.timeline - b.timeline});
+    marvelMovies.sort(function(a, b){return a.orden - b.orden});
     displayMovies();
     document.getElementById("title-section").innerHTML = "Orden cronológico";
+    document.querySelectorAll(".timeline").classList.add('active');
 }
   
   function alfabetico() {
@@ -559,7 +560,7 @@ function timelineOrder() {
       return `
       <div class="card-movie ${movie.id}">
         <div class="card-content">
-            <figure class="poster">
+            <figure id="poster" onclick="${movie.id}Modal()" data-movie="${movie.movie}" data-phase="${movie.phase}">
                 <img class="poster-movie" src="assets/img/poster/${movie.id}.jpg">
             </figure>
             <div class="card-body">
@@ -579,4 +580,12 @@ function timelineOrder() {
       ${marvelMovies.map(moviesTemplate).join("")}
     `;
     document.getElementById("title-section").innerHTML = "Fecha de estreno";
+  }
+  function closeModal() {
+    document.getElementById("overlay").classList. add('active');
+  }
+  function captainmarvelModal() {
+    document.getElementById("overlay").classList. add('active');
+    document.querySelector("body").classList. add('fixed');
+    document.getElementById('poster').getAttribute("data-phase")
   }
