@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <link rel="icon" type="image/png" href="/assets/img/icon/homescreen48.png">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="manifest" href="manifest.json">
     <title>Marvel UCM</title>
@@ -16,19 +17,24 @@
         <div id="info">
           <h2 id="title-section"></h2>
           <div id="sort-buttons" class="buttons">
-            <span class="button alfabetico" onclick="alfabetico()">Alfabético</span>
-            <span class="button timeline" onclick="timelineOrder()">Cronológico</span>
-            <span class="button released" onclick="dateReleased()">Estreno</span>
+            <span id="alfabetico" class="button" onclick="alfabetico()">Alfabético</span>
+            <span id="timeline" class="button" onclick="timelineOrder()">Cronológico</span>
+            <span id="released" class="button active" onclick="dateReleased()">Estreno</span>
           </div>
       </div>
-        
+      <div id="result"></div>
         <div id="grid-movies"></div>
     </main>
-    <div id="overlay">
-      <div id="modal">
-        <h1 id="modal-title">Modal</h1>
+    
+    <div id="overlay" class="">
+      <div id="modal" onclick="closeModal()">
+        <h1 id="modal-title"></h1>
+        <div id="modal-content">
+          <h4 id="phase-modal"></h4>
+        </div>
       </div>
   </div>
-    <script src="./assets/js/apps.js"></script>
+    <script src="./assets/js/app-ucm.js"></script>
+
 </body>
 </html>

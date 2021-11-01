@@ -8,7 +8,9 @@ const marvelMovies = [
     "timeline": 2010,
     "orden": 3,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "theincrediblehulk",
@@ -19,7 +21,9 @@ const marvelMovies = [
     "timeline": 2011,
     "orden": 4,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ironman2",
@@ -30,7 +34,9 @@ const marvelMovies = [
     "timeline": 2011,
     "orden": 5,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "thor",
@@ -41,7 +47,9 @@ const marvelMovies = [
     "timeline": 2011,
     "orden": 6,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "captainamericathefirstavenger",
@@ -52,7 +60,9 @@ const marvelMovies = [
     "timeline": 1943,
     "orden": 1,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "theavengers",
@@ -63,7 +73,9 @@ const marvelMovies = [
     "timeline": 2012,
     "orden": 7,
     "type": "movie",
-    "phase": "1"
+    "phase": "1",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ironman3",
@@ -74,7 +86,9 @@ const marvelMovies = [
     "timeline": 2012,
     "orden": 9,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "thorthedarkworld",
@@ -85,7 +99,9 @@ const marvelMovies = [
     "timeline": 2013,
     "orden": 8,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "captainamericathewintersoldier",
@@ -96,7 +112,9 @@ const marvelMovies = [
     "timeline": 2014,
     "orden": 10,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "guardiansofthegalaxy",
@@ -107,7 +125,9 @@ const marvelMovies = [
     "timeline": 2014,
     "orden": 11,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "avengersageofultron",
@@ -118,7 +138,9 @@ const marvelMovies = [
     "timeline": 2015,
     "orden": 13,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ant-man",
@@ -129,7 +151,9 @@ const marvelMovies = [
     "timeline": 2015,
     "orden": 14,
     "type": "movie",
-    "phase": "2"
+    "phase": "2",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "captainamericacivilwar",
@@ -140,7 +164,9 @@ const marvelMovies = [
     "timeline": 2016,
     "orden": 15,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "doctorstrange",
@@ -151,7 +177,9 @@ const marvelMovies = [
     "timeline": 2016,
     "orden": 19,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "guardiansofthegalaxyvol2",
@@ -162,7 +190,9 @@ const marvelMovies = [
     "timeline": 2014,
     "orden": 12,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "spider-manhomecoming",
@@ -173,7 +203,9 @@ const marvelMovies = [
     "timeline": 2016,
     "orden": 18,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "thorragnarok",
@@ -184,7 +216,9 @@ const marvelMovies = [
     "timeline": 2017,
     "orden": 20,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "blackpanther",
@@ -195,7 +229,9 @@ const marvelMovies = [
     "timeline": 2017,
     "orden": 17,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "avengersinfinitywar",
@@ -206,7 +242,9 @@ const marvelMovies = [
     "timeline": 2018,
     "orden": 22,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ant-manthewasp",
@@ -217,7 +255,9 @@ const marvelMovies = [
     "timeline": 2018,
     "orden": 21,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "captainmarvel",
@@ -228,7 +268,9 @@ const marvelMovies = [
     "timeline": 1995,
     "orden": 2,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "avengersendgame",
@@ -239,7 +281,9 @@ const marvelMovies = [
     "timeline": 2023,
     "orden": 23,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "spider-manfarfromhome",
@@ -250,7 +294,9 @@ const marvelMovies = [
     "timeline": 2023,
     "orden": 28,
     "type": "movie",
-    "phase": "3"
+    "phase": "3",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "blackwidow",
@@ -261,7 +307,9 @@ const marvelMovies = [
     "timeline": 2017,
     "orden": 16,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "shangchi",
@@ -272,7 +320,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 29,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "eternals",
@@ -283,7 +333,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "spider-mannowayhome",
@@ -294,7 +346,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "doctorstrangeinthemultiverseofmadness",
@@ -305,7 +359,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "thorloveandthunder",
@@ -316,7 +372,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "blackpantherwakandaforever",
@@ -327,7 +385,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "themarvels",
@@ -338,7 +398,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "guardiansofthegalaxyvol3",
@@ -349,7 +411,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "blade",
@@ -360,7 +424,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ant-manquantunmania",
@@ -371,7 +437,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "fantasticfour",
@@ -382,7 +450,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "movie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "wandavision",
@@ -393,7 +463,9 @@ const marvelMovies = [
     "timeline": 2023,
     "orden": 26,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "thefalconandthewintersoldier",
@@ -404,7 +476,9 @@ const marvelMovies = [
     "timeline": 2023,
     "orden": 27,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "loki",
@@ -415,7 +489,9 @@ const marvelMovies = [
     "timeline": 2012,
     "orden": 24,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "whatif",
@@ -426,7 +502,9 @@ const marvelMovies = [
     "timeline": 2023,
     "orden": 25,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "hawkeye",
@@ -437,7 +515,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "msmarvel",
@@ -448,7 +528,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "shehulk",
@@ -459,7 +541,9 @@ const marvelMovies = [
     "timeline": 2024,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "moonknight",
@@ -470,7 +554,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "secretinvasion",
@@ -481,7 +567,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "ironheart",
@@ -492,7 +580,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "armorwars",
@@ -503,7 +593,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "gotg-holiday",
@@ -514,7 +606,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "5"
+    "phase": "5",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   },
   {
     "id": "iamgroot",
@@ -525,7 +619,9 @@ const marvelMovies = [
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
-    "phase": "4"
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   }
 ];
   
@@ -535,13 +631,13 @@ function dateReleased() {
     marvelMovies.sort(function(a, b){return a.year - b.year});
     displayMovies();
     document.getElementById("title-section").innerHTML = "Fecha de estreno";
+    document.getElementById("released").classList.add('active');
 }
 
 function timelineOrder() {
     marvelMovies.sort(function(a, b){return a.orden - b.orden});
     displayMovies();
     document.getElementById("title-section").innerHTML = "Orden cronológico";
-    document.querySelectorAll(".timeline").classList.add('active');
 }
   
   function alfabetico() {
@@ -558,11 +654,11 @@ function timelineOrder() {
   
   function moviesTemplate(movie) {
       return `
-      <div class="card-movie ${movie.id}">
+      <div class="card-movie" id="${movie.id}" onclick="ModalMarvel(this)" data-phase="${movie.phase}">
         <div class="card-content">
-            <figure id="poster" onclick="${movie.id}Modal()" data-movie="${movie.movie}" data-phase="${movie.phase}">
+            <div id="poster" class="data-poster" data-movie="${movie.movie}" data-phase="${movie.phase}">
                 <img class="poster-movie" src="assets/img/poster/${movie.id}.jpg">
-            </figure>
+            </div>
             <div class="card-body">
                 <h4>${movie.movie}</h4>
                 <div class="date-movie">
@@ -573,6 +669,28 @@ function timelineOrder() {
         </div>
       `;
     }
+
+    function moviesModalTemplate(movie) {
+      return `
+      <div id="data-movie-modal" class="${movie.id}">
+            <div class="info">
+              <h3 class="data-title-movie">${movie.movie}</h3>
+              <div class="data-date-released">${movie.year}</div>
+              <div class="data-status-production">${movie.status}</div>
+            </div>
+            <div class="data-ucm">
+              <div class="data-ucm-phase">Fase ${movie.phase}</div>
+              <div class="data-ucm-date">${movie.timeline}</div>
+              <div class="data-ucm-streaming"><a href="${movie.streaming}" target="_blank">Ver en Streaming</a></div>
+            </div>
+            <div class="data-"></div>
+            <div class="data-">
+              <h5>Trailer</h5>
+              <div class="data-ucm-streaming"><a href="https://www.youtube.com/watch?v=${movie.urltrailer}">Ver trailer</a></div>
+            </div>
+          </div>
+      `;
+    }
   
   function displayMovies() {
     document.getElementById("grid-movies").innerHTML =
@@ -580,12 +698,74 @@ function timelineOrder() {
       ${marvelMovies.map(moviesTemplate).join("")}
     `;
     document.getElementById("title-section").innerHTML = "Fecha de estreno";
+    
   }
   function closeModal() {
-    document.getElementById("overlay").classList. add('active');
+    document.getElementById("overlay").classList.remove('active');
+    document.querySelector("body").classList.remove('fixed');
   }
-  function captainmarvelModal() {
-    document.getElementById("overlay").classList. add('active');
+  function ModalMarvel(pelicula) {
+    document.getElementById("overlay").classList.add('active');
+    document.querySelector("body").classList.add('fixed');
+    var titleModal = document.getElementById("modal-title");
+    var phaseModal = document.getElementById("phase-modal");
+    titleModal.innerHTML = pelicula.id;
+    phaseModal.innerHTML = pelicula.data-phase;
+  }
+
+/*  function dataElement(){
+    document.getElementById("poster").addEventListener("click", function(){
+      console.log(this.getAttribute('data-type'));
+    });
+  }
+
+  var el = document.getElementsByClassName("data-poster");
+
+  for(var i= 0; i< el.length; i++){
+  el[i].addEventListener("click", function (event) {     
+   var div = document.createElement('div');
+   for (var key in this.dataset) {
+  
+     var obj = this.dataset[key];
+  
+     var elem = document.getElementById('modal-content');
+     var span = document.createElement('span');
+
+     document.getElementById("overlay").classList. add('active');
     document.querySelector("body").classList. add('fixed');
-    document.getElementById('poster').getAttribute("data-phase")
+  
+     div.appendChild(span);
+     div.className = "modal-content";
+  
+     span.innerHTML = "data[" + key + "] = " + obj + "&nbsp;&nbsp;&nbsp;";
+     span.className = "movie";
+     elem.appendChild(div);
+     document.getElementById("modal-content").removeChild(document.getElementById("movie").children[0].lastChild);
+
   }
+  }); 
+  }*/
+
+  document.querySelectorAll('div.data-poster').forEach( elem => {
+    elem.addEventListener('click', e => {
+      console.log(e.target.dataset.phase);
+    });
+  });
+
+// CAMBIO DE ESTADO BOTONES
+  // Get the container element
+var btnContainer = document.getElementById("sort-buttons");
+
+// Get all buttons with class="btn" inside the container
+var btns = btnContainer.getElementsByClassName("button");
+
+// Loop through the buttons and add the active class to the current/clicked button
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+
+// https://www.youtube.com/watch?v=DP7Hkr2ss_I
