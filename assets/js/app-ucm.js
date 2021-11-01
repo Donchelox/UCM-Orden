@@ -11,7 +11,7 @@ function cargarMarvel(){
             <div class="card-movie" id="${movie.identificador}">
                 <div class="card-content">
                     <div identificador="poster" onclick="ModalMarvel(this)" class="data-poster" >
-                        <img class="poster-movie" src="../assets/img/poster/${movie.identificador}.jpg" data-movie="${movie.movie}" data-phase="${movie.phase}">
+                        <img class="poster-movie" src="/assets/img/poster/${movie.identificador}.jpg" data-movie="${movie.movie}" data-phase="${movie.phase}">
                     </div>
                     <div class="card-body">
                         <h4>${movie.movie}</h4>
