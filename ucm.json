@@ -548,10 +548,10 @@
   {
     "identificador": "moonknight",
     "movie": "Moon Knight",
-    "poster": "assets/img/poster/moonknight.jpg",
+    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moonknight_lob_crd_05.jpg",
     "status": "announced",
-    "year": 2025,
-    "timeline": 2025,
+    "year": 2022,
+    "timeline": 2024,
     "orden": 60,
     "type": "serie",
     "phase": "4",
