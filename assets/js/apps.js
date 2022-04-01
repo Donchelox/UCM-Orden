@@ -340,7 +340,7 @@ const marvelMovies = [
   {
     "id": "spider-mannowayhome",
     "movie": "Spider-man No way home",
-    "poster": "assets/img/poster/spider-mannowayhome.jpg",
+    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-mannowayhome_lob_crd_03.jpg",
     "status": "coming",
     "year": 2021,
     "timeline": 2024,
@@ -353,7 +353,7 @@ const marvelMovies = [
   {
     "id": "doctorstrangeinthemultiverseofmadness",
     "movie": "Doctor Strange in the Multiverse of Madness",
-    "poster": "assets/img/poster/doctorstrangeinthemultiverseofmadness.jpg",
+    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
@@ -522,9 +522,9 @@ const marvelMovies = [
   {
     "id": "msmarvel",
     "movie": "Ms. Marvel",
-    "poster": "assets/img/poster/msmarvel.jpg",
+    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/msmarvel_lob_crd_04.jpg",
     "status": "coming",
-    "year": 2021,
+    "year": 2022,
     "timeline": 2024,
     "orden": 60,
     "type": "serie",
@@ -548,9 +548,9 @@ const marvelMovies = [
   {
     "id": "moonknight",
     "movie": "Moon Knight",
-    "poster": "assets/img/poster/moonknight.jpg",
+    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moonknight_lob_crd_05.jpg",
     "status": "announced",
-    "year": 2025,
+    "year": 2022,
     "timeline": 2025,
     "orden": 60,
     "type": "serie",
