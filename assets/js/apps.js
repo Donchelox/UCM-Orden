@@ -339,7 +339,7 @@ const marvelMovies = [
   },
   {
     "id": "spider-mannowayhome",
-    "movie": "Spider-man No way home",
+    "movie": "Spider-man No Way Home",
     "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-mannowayhome_lob_crd_03.jpg",
     "status": "released",
     "year": 2021,
