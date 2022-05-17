@@ -353,7 +353,7 @@ const marvelMovies = [
   {
     "id": "doctorstrangeinthemultiverseofmadness",
     "movie": "Doctor Strange in the Multiverse of Madness",
-    "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+    "poster": "assets/img/poster/doctorstrangeinthemultiverseofmadness.jpg",
     "status": "coming",
     "year": 2022,
     "timeline": 2025,
