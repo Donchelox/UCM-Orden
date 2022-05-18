@@ -622,6 +622,84 @@ const marvelMovies = [
     "phase": "4",
     "urltrailer": "8ugaeA-nMTc",
     "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "xmen97",
+    "movie": "X-Men '97",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "whatif2",
+    "movie": "What If...? 2",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "echo",
+    "movie": "echo",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "spider-man-freshman-year",
+    "movie": "Spider-Man Freshman Year",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "agatha",
+    "movie": "Agatha House of Harkness",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
+  },
+  {
+    "id": "marvelzombies",
+    "movie": "Marvel Zombies",
+    "poster": "assets/img/poster/iamgroot.jpg",
+    "status": "announced",
+    "year": 2025,
+    "timeline": 2025,
+    "orden": 60,
+    "type": "serie",
+    "phase": "4",
+    "urltrailer": "8ugaeA-nMTc",
+    "streaming": "https://www.disneyplus.com/es-419/movies/iron-man-de-marvel-studios/6aM2a8mZATiu"
   }
 ];
   
