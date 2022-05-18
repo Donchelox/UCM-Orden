@@ -665,7 +665,7 @@ const marvelMovies = [
   {
     "id": "spider-man-freshman-year",
     "movie": "Spider-Man Freshman Year",
-    "poster": "assets/img/poster/spider-man-freshman-year.jpg",
+    "poster": "assets/img/poster/spider-manfreshmanyear.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -678,7 +678,7 @@ const marvelMovies = [
   {
     "id": "agatha",
     "movie": "Agatha House of Harkness",
-    "poster": "assets/img/poster/agatha.jpg",
+    "poster": "assets/img/poster/agathahouseofharkness.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
