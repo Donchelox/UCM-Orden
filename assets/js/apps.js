@@ -626,7 +626,7 @@ const marvelMovies = [
   {
     "id": "xmen97",
     "movie": "X-Men '97",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/xmen97.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -639,7 +639,7 @@ const marvelMovies = [
   {
     "id": "whatif2",
     "movie": "What If...? 2",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/whatif2.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -652,7 +652,7 @@ const marvelMovies = [
   {
     "id": "echo",
     "movie": "echo",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/echo.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -665,7 +665,7 @@ const marvelMovies = [
   {
     "id": "spider-man-freshman-year",
     "movie": "Spider-Man Freshman Year",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/spider-manfreshmanyear.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -678,7 +678,7 @@ const marvelMovies = [
   {
     "id": "agatha",
     "movie": "Agatha House of Harkness",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/agathahouseofharkness.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
@@ -691,7 +691,7 @@ const marvelMovies = [
   {
     "id": "marvelzombies",
     "movie": "Marvel Zombies",
-    "poster": "assets/img/poster/iamgroot.jpg",
+    "poster": "assets/img/poster/marvelzombies.jpg",
     "status": "announced",
     "year": 2025,
     "timeline": 2025,
